@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Add text to second line.
 Change Alice.
+Added something from github.com
+Added text for Rewritting History.
+Added text for Interactive Rebase.
+Rebase

@@ -1,2 +1,5 @@
 Hi! I'm Bob. I've been here for a while.
 Adding text on Bob on master.
+Rebase
+Added text for Rewriting History.
+Added text for Interactive Rebase.
